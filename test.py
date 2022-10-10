@@ -1,5 +1,3 @@
 import numpy as np
 
-a = np.sin(np.pi/2)
-
-print(a)
+print(np.sin(0.5*np.pi))
